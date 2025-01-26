@@ -22,7 +22,9 @@
 5.Responsive UI for mobile and desktop.
 6.Online/offline user status updates.
 7.Group and private chat functionality.
+```
 **#Tech Stack**
+```bash
 Frontend: React.js, Material-UI (or your preferred styling library, I have used Tailwind CSS)
 Backend: Node.js, Express.js
 Database: MongoDB with Mongoose
